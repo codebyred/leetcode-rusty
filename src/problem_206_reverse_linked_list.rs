@@ -18,6 +18,7 @@ impl ListNode {
 struct Solution;
 
 impl Solution {
+  #[allow(dead_code)]
     pub fn reverse_list(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
 
         let mut prev_node = None;

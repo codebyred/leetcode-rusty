@@ -41,6 +41,7 @@ use std::collections::HashMap;
 pub struct Solution;
 
 impl Solution {
+    #[allow(dead_code)]
     pub fn length_of_longest_substring(s: String) -> i32 {
         
         if s.len() == 0 { return 0 };
