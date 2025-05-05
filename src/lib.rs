@@ -4,3 +4,6 @@ pub mod problem_206_reverse_linked_list;
 pub mod problem_242_valid_anagram;
 pub mod problem_3_longest_substring_without_repeating_characters;
 pub mod problem_143_reorder_list;
+pub mod problem_78_subsets;
+pub mod problem_223_invert_a_binary_tree;
+pub mod problem_33_search_in_rotated_sorted_array;
