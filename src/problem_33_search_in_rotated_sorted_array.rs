@@ -1,11 +1,6 @@
 struct Solution;
 /*
-in rotated sorted array there are two sorted subarrays
 
-check if left or right is sorted from mid point [we need check the whole left and whole right]
-check if target is within the sorted range {
-    if yes then move to that range
-    else move to other range
 }
 */
 

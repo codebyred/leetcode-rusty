@@ -7,3 +7,6 @@ pub mod problem_143_reorder_list;
 pub mod problem_78_subsets;
 pub mod problem_223_invert_a_binary_tree;
 pub mod problem_33_search_in_rotated_sorted_array;
+pub mod problem_703_kth_largest_element_in_stream;
+pub mod problem_1046_last_stone_weight;
+pub mod problem_973_k_closest_points_to_origin;
