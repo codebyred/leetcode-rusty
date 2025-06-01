@@ -10,3 +10,5 @@ pub mod problem_33_search_in_rotated_sorted_array;
 pub mod problem_703_kth_largest_element_in_stream;
 pub mod problem_1046_last_stone_weight;
 pub mod problem_973_k_closest_points_to_origin;
+pub mod problem_347_top_k_freq_elements;
+pub mod problem_46_permutations;
