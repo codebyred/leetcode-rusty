@@ -12,3 +12,5 @@ pub mod problem_1046_last_stone_weight;
 pub mod problem_973_k_closest_points_to_origin;
 pub mod problem_347_top_k_freq_elements;
 pub mod problem_46_permutations;
+pub mod problem_2_add_two_number;
+pub mod problem_79_word_search;
